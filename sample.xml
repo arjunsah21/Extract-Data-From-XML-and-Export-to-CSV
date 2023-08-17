@@ -1,0 +1,26 @@
+<store name="Jk Super" location="noida">
+    <section name="electronics">
+        <item id="1">
+            <name>Laptop</name>
+            <brand>ExampleBrand</brand>
+            <price currency="USD">899.99</price>
+        </item>
+        <item id="2">
+            <name>Smartphone</name>
+            <brand>AnotherBrand</brand>
+            <price currency="USD">699.00</price>
+        </item>
+    </section>
+    <section name="clothing">
+        <item id="3">
+            <name>T-Shirt</name>
+            <brand>CoolClothes</brand>
+            <price currency="EUR">19.99</price>
+        </item>
+        <item id="4">
+            <name>Jeans</name>
+            <brand>DenimCo</brand>
+            <price currency="EUR">49.95</price>
+        </item>
+    </section>
+</store>
